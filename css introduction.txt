@@ -1,0 +1,10 @@
+Inline css- It is introduced inside of the start tag
+of an element by use of the style attribute.
+Later you can have the different properties of 
+a tag element.
+
+internal css - It is embedded in the same document
+inside of the head section. It is introduced by the 
+use of the style tag element inside of the head
+section of the html document. To style the different 
+tags we normally use selectors. (Tag selector)
