@@ -1,2 +1,10 @@
 git config --global user.name "johnDoe"
 git config --global user.email "youremail@example.com"
+
+
+git add .
+git commit -m "added files"
+git push
+
+
+Research what is an id and class selector in css....

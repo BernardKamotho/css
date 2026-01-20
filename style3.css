@@ -1,0 +1,41 @@
+body{
+    background-color: rgba(242, 229, 229, 0.882);
+}
+
+#par1{
+    color: blue;
+    background-color: coral;
+    font-size: 26px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+#par2{
+    color: rgb(255, 255, 255);
+    font-size: 23px;
+    background-color: rgb(71, 194, 19);
+    padding: 10px;
+    text-align: end;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+#par3{
+    color: rgb(219, 219, 219);
+    background-color: chocolate;
+    font-size: 20px;
+    text-transform: capitalize;
+    text-decoration: overline;
+    padding: 15px;
+}
+
+.myparagraph{
+    color:crimson;
+    font-size: 24px;
+    background-color: chartreuse;
+    padding: 12px;
+}
+
+.mydivision{
+    color: red;
+    font-size: 26px;
+    text-align: center;
+}
